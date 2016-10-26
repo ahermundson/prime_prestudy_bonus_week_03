@@ -10,7 +10,7 @@ function subtract(num) {
   return num - 4;
 }
 
-add(multiply(subtract(2)));
+add(multiply(subtract(5)));
 
 /*
 Both the add and multiply functions have functions being used as a parameter.
